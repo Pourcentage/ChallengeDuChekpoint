@@ -1,0 +1,9 @@
+/!\ Seules des maps laps doivent être présentes sur le serveur
+
+Ce plugin nécessite la dernière version de ManiaLive 1 (ManiaLive 1_r267).
+
+- Placer le répertoire "vitessepure" dans ManialivePlugins
+- Modifier les admins à la ligne 27 de PluginCheckpoint.php
+- Utilisez /go [Nombre de maps] pour démarrer la compétition (/go 3 pour une compétition sur 3 maps)
+- Utiliser /endwu pour mettre fin prématurément aux 2 tours de chauffe qui ont lieu avant chaque map
+
