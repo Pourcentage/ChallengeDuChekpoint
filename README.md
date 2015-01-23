@@ -1,8 +1,8 @@
 # Challenge du Checkpoint #
 
-* Plugin en Français uniquement. *
+/!\ Plugin en Français uniquement.
 
-** /!\ Seules des maps laps doivent être présentes sur le serveur **
+/!\ Seules des maps laps doivent être présentes sur le serveur
 
 Ce plugin nécessite la dernière version de ManiaLive 1 (ManiaLive 1_r267).
 
